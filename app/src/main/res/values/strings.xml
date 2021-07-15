@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">P09 NDPSongs</string>
+    <string name="title">Song Title</string>
+    <string name="entertitle">Enter song title here</string>
+    <string name="singers">Singers</string>
+    <string name="entersingers">Enter singers name here</string>
+    <string name="year">Year</string>
+    <string name="enteryear">Enter year of release here</string>
+    <string name="stars">Stars</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="insert">Insert</string>
+    <string name="showlist">Show List</string>
+    <string name="filter5stars">Show all songs with 5 stars (no filter)</string>
+    <string name="songid">Song ID:</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
